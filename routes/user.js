@@ -3,7 +3,6 @@ const app = express()
 const router = express.Router()
 
 const User = require("../models/user.model")
-const {json} = require("express");
 
 app.use(express.json())
 
