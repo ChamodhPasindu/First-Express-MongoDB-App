@@ -1,0 +1,16 @@
+{
+  "name": "express-mongodb-facebook-clone",
+  "version": "1.0.0",
+  "description": "implementation of facebook backend clone",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "nodemon": "nodemon app.js"
+  },
+  "author": "chamodh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
